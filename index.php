@@ -23,7 +23,7 @@ include "Includes/templates/navbar.php";
                 <div class="carousel-item active">
                     <img class="d-block w-100" src="Design/images/barbershop_image_1.jpg" alt="First slide">
                     <div class="carousel-caption d-md-block">
-                        <h3>Un Corte de pelo para cada Ocasión</h3>
+                        <h3>Un Corte de Cabello para cada Ocasión</h3>
                         <p>
                             Somos la mejor peluquería del Mundo, te queremos bien !!
                             <br>
