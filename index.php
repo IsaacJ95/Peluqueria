@@ -406,16 +406,16 @@ include "Includes/templates/navbar.php";
                         Estamos muy pendientes de nuestros clientes y sus consultas o sugerencias son muy importantes para nosotros.
                     </p>
                     <h3>
-                        Calle 90 N 23 24
+                        Calle 13 Av 17
                         <br>
-                        Cali, Colombia
+                        Manta, Manabí, Ecuador
                     </h3>
                     <h4>
                         <span style="font-weight: bold">Email:</span>
-                        hola@configuroweb.com
+                        joviriccedeoponce96@gmail.com
                         <br>
                         <span style="font-weight: bold">Phone:</span>
-                        +57 316 243 00 81
+                        (+593) 0979252194
                         <br>
                     </h4>
                 </div>
@@ -462,7 +462,7 @@ include "Includes/templates/navbar.php";
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="footer_widget">
-                    <img src="Design/images/barbershop_logo.png" alt="Brand">
+                    <img src="Design/images/logop.png" alt="Brand">
                     <p>
                         Somos tu mejor opción, nuestro mayor capital tu comodidad y satisfacción
                     </p>
@@ -478,12 +478,12 @@ include "Includes/templates/navbar.php";
                 <div class="footer_widget">
                     <h3>Dirección</h3>
                     <p>
-                        Calle 90 N 23 24
+                        Calle 13 Av 17
                     </p>
                     <p>
-                        hola@configuroweb.com
+                        joviriccedeoponce96@gmail.com
                         <br>
-                        (+57) 316 243 00 81
+                        (+593) 0979252194
                     </p>
                 </div>
             </div>
