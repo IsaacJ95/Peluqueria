@@ -47,7 +47,7 @@ include 'Includes/functions/functions.php';
 			if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['signin-button'])) {
 				$username = test_input($_POST['username']);
 				$password = test_input($_POST['password']);
-				$hashedPass = sha1($password);
+				$hashedPass =($password);
 
 				//Check if User Exist In database
 

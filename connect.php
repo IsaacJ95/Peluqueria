@@ -1,5 +1,5 @@
 <?php
-$dsn = 'mysql:host=peluqueria.mysql.database.azure.com ;dbname=peluqueria';
+$dsn = 'mysql:host=peluqueria.mysql.database.azure.com;dbname=barberia';
 $user = 'joviric';
 $pass = 'Hola1234';
 $option = array(
