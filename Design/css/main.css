@@ -86,7 +86,7 @@ body
 }
 .header-section
 {
-	background-color: #fc7d1c;
+	background-color: #63a1ff;
 	width:100%;
 	height:80px;
 	z-index:999;
@@ -158,7 +158,7 @@ ul.nav>li>a
 {
     font-size: 36px;
     line-height: 46px;
-    color: #fc7d1c;
+    color: #63a1ff;
     margin-bottom: 30px;
 }
 .about_section h3 
@@ -309,7 +309,7 @@ ul.nav>li>a
 {
     font-family: "Work Sans",sans-serif;
     letter-spacing: 0;
-    background-color: #fc7d1c;
+    background-color: #63a1ff;
     color: #fff;
     line-height: 45px;
     display: inline-block;
@@ -596,7 +596,7 @@ ul.nav>li>a
 }
 .subscribe_form .submit 
 {
-    background-color: #fc7d1c;
+    background-color: #63a1ff;
     color: #fff;
     font-family: "Work Sans", sans-serif;
     font-size: 12px;
@@ -788,7 +788,7 @@ a.mob-menu-toggle
     line-height: 50px;
     padding: 0px !important;
     text-align: center;
-    background: #fc7d1c;
+    background: #63a1ff;
     color: #ffffff !important;
 }
 

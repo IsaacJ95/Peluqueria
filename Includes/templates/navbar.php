@@ -4,7 +4,7 @@
     <div class="container">
         <nav class="navbar">
             <a href="#" class="navbar-brand">
-                <img src="Design/images/barbershop_logo.png" alt="Barbershop Logo">
+                <img src="Design/images/logop.png" alt="Barbershop Logo">
             </a>
             <div class="d-flex menu-wrap align-items-center main-menu-container">
                 <div class="mainmenu" id="mainmenu">
